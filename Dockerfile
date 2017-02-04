@@ -1,5 +1,5 @@
 FROM python:2.7
-MAINTAINER Cheng Tiesheng
+MAINTAINER Cheng Tiesheng <chengtiesheng@huawei.com>
 ENV REFRESHED_AT 2016-08-01
 
 ADD . /composeapp
